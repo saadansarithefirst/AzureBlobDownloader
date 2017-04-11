@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlobDownloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlobDownloader_jar</output-path>
+    <root id="archive" name="BlobDownloader.jar">
+      <element id="module-output" name="BlobDownloader" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/microsoft/azure/azure-storage/5.0.0/azure-storage-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.6.0/jackson-core-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/microsoft/azure/azure-keyvault-core/0.8.0/azure-keyvault-core-0.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
